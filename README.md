@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-### TIL (Today i Learned )
+### TIL (Today I Learned )
 
 #### Blockchain
 * Url [Was ist Blockchain-Technologie](https://blockgeeks.com/guides/de/was-ist-blockchain-technologie/) - Abschnitt 1
