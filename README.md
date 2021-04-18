@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: you can learn what you dont know
 
+
+
+### TIL (Today i Learned )
+
+#### Blockchain
+* Url [Was ist Blockchain-Technologie](https://blockgeeks.com/guides/de/was-ist-blockchain-technologie/) - Abschnitt 1
+* Artikel [Whitepaper Satoshi Nakamoto](https://www.bitcoin.de/de/bitcoin-whitepaper-deutsch-html)
