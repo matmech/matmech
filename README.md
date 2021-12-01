@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 ### TIL (Today I Learned )
 
+### TIR (Today I Read )
+- Hypecycle von Gartner
+
 #### Blockchain
 * Url [Was ist Blockchain-Technologie](https://blockgeeks.com/guides/de/was-ist-blockchain-technologie/) - Abschnitt 1
 * Artikel [Whitepaper Satoshi Nakamoto](https://www.bitcoin.de/de/bitcoin-whitepaper-deutsch-html)
@@ -39,4 +42,3 @@ Here are some ideas to get you started:
 
 ### To Look for
 - HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
-- Hypecycle von Gartner
