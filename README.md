@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ### TIR (Today I Read )
 - Hypecycle von Gartner
+- HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
+  -  [case study](https://linuxfoundation.org/press-release/hyperledger-announces-2021-brand-study/) about [hyperledger.org](https://www.hyperledger.org/) and [landscape of it](https://landscape.hyperledger.org/card-mode?project=hosted)
 
 #### Blockchain
 * Url [Was ist Blockchain-Technologie](https://blockgeeks.com/guides/de/was-ist-blockchain-technologie/) - Abschnitt 1
@@ -41,4 +43,4 @@ Here are some ideas to get you started:
 - Bei Etherum - muss bei Codeanpassungen der Vertag neu gemacht werden. Änderungen am Code gehen nicht.
 
 ### To Look for
-- HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
+
