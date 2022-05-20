@@ -44,10 +44,8 @@ Here are some ideas to get you started:
 - Bei Etherum - muss bei Codeanpassungen der Vertag neu gemacht werden. Änderungen am Code gehen nicht.
 
 ### To Look for
-<<<<<<< HEAD
 - HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
 - Hypecycle von Gartner
 - how vscode an the github extensions work together
 =======
 
->>>>>>> f6e56dcda3e487a01e7d46fa9c611874e31bfd2a
