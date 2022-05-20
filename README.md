@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 ### TIL (Today I Learned )
 
+### TIR (Today I Read )
+- Hypecycle von Gartner
+- HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
+  -  [case study](https://linuxfoundation.org/press-release/hyperledger-announces-2021-brand-study/) about [hyperledger.org](https://www.hyperledger.org/) and [landscape of it](https://landscape.hyperledger.org/card-mode?project=hosted)
+
 #### Blockchain
 * Url [Was ist Blockchain-Technologie](https://blockgeeks.com/guides/de/was-ist-blockchain-technologie/) - Abschnitt 1
 * Artikel [Whitepaper Satoshi Nakamoto](https://www.bitcoin.de/de/bitcoin-whitepaper-deutsch-html)
@@ -39,6 +44,10 @@ Here are some ideas to get you started:
 - Bei Etherum - muss bei Codeanpassungen der Vertag neu gemacht werden. Änderungen am Code gehen nicht.
 
 ### To Look for
+<<<<<<< HEAD
 - HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
 - Hypecycle von Gartner
 - how vscode an the github extensions work together
+=======
+
+>>>>>>> f6e56dcda3e487a01e7d46fa9c611874e31bfd2a
