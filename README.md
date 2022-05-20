@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 #### Blockchain
 * Url [Was ist Blockchain-Technologie](https://blockgeeks.com/guides/de/was-ist-blockchain-technologie/) - Abschnitt 1
 * Artikel [Whitepaper Satoshi Nakamoto](https://www.bitcoin.de/de/bitcoin-whitepaper-deutsch-html)
+* How easy it is to fork some code [ghidra](https://github.com/NationalSecurityAgency/ghidra), [mimikatz](https://github.com/gentilkiwi/mimikatz) and of course [kubernetes](https://github.com/kubernetes/kubernetes) and yes i know i have to facepalm myself
 
 ### Qual der Wahl
 * [Börsen](https://www.cryptolist.de/boersen)
@@ -40,3 +41,4 @@ Here are some ideas to get you started:
 ### To Look for
 - HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
 - Hypecycle von Gartner
+- how vscode an the github extensions work together
