@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
 ### Begriffe
 - Smart Contract - Ein Vertrag der sich selbst erfüllt.
+- A2A protocols - TODO
+- Human Delegates `A human delegate who proves empowerment through keys might be thought of as an agent.` aus [Aries Rfcs](https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0004-agents/README.md)
 
 ### Merker
 - Bei Etherum - muss bei Codeanpassungen der Vertag neu gemacht werden. Änderungen am Code gehen nicht.
