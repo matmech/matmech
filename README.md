@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - Hypecycle von Gartner
 - HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
   -  [case study](https://linuxfoundation.org/press-release/hyperledger-announces-2021-brand-study/) about [hyperledger.org](https://www.hyperledger.org/) and [landscape of it](https://landscape.hyperledger.org/card-mode?project=hosted)
+  -   [Hyperledger Aries](https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0004-agents/README.md)
+  -   ongoing [GettingStartedAriesDev](https://github.com/hyperledger/aries-cloudagent-python/tree/main/docs/GettingStartedAriesDev)
 
 #### Blockchain
 * Url [Was ist Blockchain-Technologie](https://blockgeeks.com/guides/de/was-ist-blockchain-technologie/) - Abschnitt 1
