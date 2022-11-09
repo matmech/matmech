@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 
 ### To Look for
 - HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
-- Hypecycle von Gartner
 - how vscode an the github extensions work together
+- GitHub Codespaces
+- GitHub Actions
 
 
