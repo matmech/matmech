@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 * [Bitcoins Kaufen - 2020](https://www.heise.de/tipps-tricks/Bitcoins-kaufen-so-geht-s-3970555.html)
 * [Bitcoin und andere Kryptowährungen: Mining, kaufen, verstehen](https://www.heise.de/ct/artikel/Bitcoin-und-andere-Kryptowaehrungen-Mining-kaufen-verstehen-3975432.html) 👌
 
+### Rein in die Containersuppe
+ * [Kubernetes from Scratch](https://www.ulam.io/blog/kubernetes-scratch) 
+
 ### Begriffe
 - Smart Contract - Ein Vertrag der sich selbst erfüllt.
 - A2A protocols - TODO
