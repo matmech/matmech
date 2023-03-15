@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 * [Bitcoins Kaufen - 2016](https://www.heise.de/ct/artikel/Bitcoins-kaufen-Schritt-fuer-Schritt-3129777.html)
 * [Bitcoins Kaufen - 2020](https://www.heise.de/tipps-tricks/Bitcoins-kaufen-so-geht-s-3970555.html)
 * [Bitcoin und andere Kryptowährungen: Mining, kaufen, verstehen](https://www.heise.de/ct/artikel/Bitcoin-und-andere-Kryptowaehrungen-Mining-kaufen-verstehen-3975432.html) 👌
+* [Fundstück - Robin Kanal ](https://www.youtube.com/@RobynHD)
 
 ### Rein in die Containersuppe
  * [Kubernetes from Scratch](https://www.ulam.io/blog/kubernetes-scratch) 
