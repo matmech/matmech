@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 * [Bitcoins Kaufen - 2020](https://www.heise.de/tipps-tricks/Bitcoins-kaufen-so-geht-s-3970555.html)
 * [Bitcoin und andere Kryptowährungen: Mining, kaufen, verstehen](https://www.heise.de/ct/artikel/Bitcoin-und-andere-Kryptowaehrungen-Mining-kaufen-verstehen-3975432.html) 👌
 
+### Rein in die Containersuppe
+ * [Kubernetes from Scratch](https://www.ulam.io/blog/kubernetes-scratch) 
+
 ### Begriffe
 - Smart Contract - Ein Vertrag der sich selbst erfüllt.
 - A2A protocols - TODO
@@ -49,8 +52,9 @@ Here are some ideas to get you started:
 
 ### To Look for
 - HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
-- Hypecycle von Gartner
 - how vscode an the github extensions work together
 - whats about [abundance 360 ](https://www.abundance360.com/summit) - am i food or power? - see ya at the [watch Party](https://www.meetup.com/singularity-chapter-munich/events/292234951/)
+- GitHub Codespaces
+- GitHub Actions
 
 
