@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - Human Delegates `A human delegate who proves empowerment through keys might be thought of as an agent.` aus [Aries Rfcs](https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0004-agents/README.md)
 
 ### Merker
-- Bei Etherum - muss bei Codeanpassungen der Vertag neu gemacht werden. Änderungen am Code gehen nicht.
+* YouTube Kanal mit guten Infos [RobynHDs](https://www.youtube.com/@RobynHD)
 
 ### To Look for
 - HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
@@ -57,5 +57,6 @@ Here are some ideas to get you started:
 - whats about [abundance 360 ](https://www.abundance360.com/summit) - am i food or power? - see ya at the [watch Party](https://www.meetup.com/singularity-chapter-munich/events/292234951/) - seesms to be another money laundry for me
 - GitHub Codespaces
 - GitHub Actions
+- Again Searching for a good Fitting personal browser aside from firefox
 
 
