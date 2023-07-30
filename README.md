@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ### To Look for
 - HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
 - how vscode an the github extensions work together
-- whats about [abundance 360 ](https://www.abundance360.com/summit) - am i food or power? - see ya at the [watch Party](https://www.meetup.com/singularity-chapter-munich/events/292234951/)
+- whats about [abundance 360 ](https://www.abundance360.com/summit) - am i food or power? - see ya at the [watch Party](https://www.meetup.com/singularity-chapter-munich/events/292234951/) - seesms to be another money laundry for me
 - GitHub Codespaces
 - GitHub Actions
 
