@@ -19,7 +19,14 @@ Here are some ideas to get you started:
 
 ### TIL (Today I Learned )
 
-### TIR (Today I Read )
+Use the KISS - just begin with tar... somewhat easier, as long as you`re not root and somewhat know what your doing.
+
+### TIR (Today I Read)
+  - Docs of Ossf Scorecard [Using the CLI](https://securityscorecards.dev/#using-the-cli)
+  - [Scorecard CLI](https://github.com/ossf/scorecard#scorecard-command-line-interface)
+  - Create GitHubAction Token [Managing Your Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+
+### LAIR (Long Ago i  Read )
 - Hypecycle von Gartner
 - HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
   -  [case study](https://linuxfoundation.org/press-release/hyperledger-announces-2021-brand-study/) about [hyperledger.org](https://www.hyperledger.org/) and [landscape of it](https://landscape.hyperledger.org/card-mode?project=hosted)
