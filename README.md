@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ### TIL (Today I Learned )
 
 Use the KISS - just begin with tar... somewhat easier, as long as you`re not root and somewhat know what your doing.
+Something about ImageTagging - [Add an ability to tag a remote manifest in the registry #23618
+](https://github.com/containers/podman/issues/23618)
 
 ### TIR (Today I Read)
   - Docs of Ossf Scorecard [Using the CLI](https://securityscorecards.dev/#using-the-cli)
