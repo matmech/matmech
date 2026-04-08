@@ -59,6 +59,7 @@ Something about ImageTagging - [Add an ability to tag a remote manifest in the r
 
 ### Merker
 * YouTube Kanal mit guten Infos [RobynHDs](https://www.youtube.com/@RobynHD)
+* [Artikel](https://www.lumen.com/blog-and-news/en-us/frostarmada-forest-blizzard-dns-hijacking) enthielt [FrostArmada_IOCs.txt](https://github.com/blacklotuslabs/IOCs/blob/main/FrostArmada_IOCs.txt)
 
 ### To Look for
 - HyperLedger Framework von der LinuxFoundation - Begriff Chaincode
